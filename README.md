@@ -1,2 +1,2 @@
-# MLendsem
-All files of end semester codes of my ml end semester project are available in this repository along with the datasets used.
+# Hybrid Smart Surveillance: Real-Time Wildlife Monitoring System using YOLOv8 with Multichannel Alerts
+All files of codes of my project are available in this repository along with the datasets used.
